@@ -14,7 +14,17 @@ font-family: 'Playfair Display', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+button{
+  padding:20px 30px;
+  margin-bottom:  70px;
+  background-color: white;
+  font-size: 20px;
+  line-height: 24px;
+  color:#626262;
+  &:hover{
+    cursor:pointer;
+  }
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -63,6 +73,10 @@ p{
 .container_content{
   max-width: 900px;
   margin:0 auto;
+  .button{
+    display: flex;
+    justify-content: center;
+  }
   @media (max-width: 1170px) {
     padding: 0 20px;
    }

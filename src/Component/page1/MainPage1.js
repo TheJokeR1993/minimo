@@ -27,6 +27,10 @@ const MainPage1 = () => {
             return <Card key={i} item={cardObj(i)} />;
           })}
         </div>
+        <div className="button">
+
+        <button>Load more</button>
+        </div>
       </div>
     </div>
   );
