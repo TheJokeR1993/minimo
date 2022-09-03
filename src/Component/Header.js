@@ -5,9 +5,9 @@ const Header = () => {
   return (
     <header className="container">
       <div className="change">
-<NavLink to="/1"> 1 </NavLink>
-      <NavLink to="/2"> 2 </NavLink>
-      <NavLink to="/3"> 3 </NavLink>
+<NavLink to="/minimo/1"> 1 </NavLink>
+      <NavLink to="/minimo/2"> 2 </NavLink>
+      <NavLink to="/minimo/3"> 3 </NavLink>
       </div>
       
       <div className="header">
