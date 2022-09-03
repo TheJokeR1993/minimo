@@ -12,7 +12,7 @@ const Main = ()=>{
     <Route path="/minimo/2"  element={<MainPage2 />} />
    
     <Route path="/minimo/3" element={<MainPage3 />} />
-     <Route path="/"  element={<MainPage1 /> } />
+     <Route path="/minimo/"  element={<MainPage1 /> } />
     </Routes>
     </div>
    
