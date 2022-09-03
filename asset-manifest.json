@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minimo/static/css/main.3db6b28c.css",
-    "main.js": "/minimo/static/js/main.fc46936d.js",
+    "main.css": "/minimo/static/css/main.b71bedec.css",
+    "main.js": "/minimo/static/js/main.14375d2d.js",
     "static/media/image_8.jpg": "/minimo/static/media/image_8.4edd6d1d41448f25fa1c.jpg",
     "static/media/image_1.jpg": "/minimo/static/media/image_1.6a8a18c32d5fc1ef4744.jpg",
     "static/media/image_7.jpg": "/minimo/static/media/image_7.ab65148f4e419fd2e5a4.jpg",
@@ -13,11 +13,11 @@
     "static/media/image_10.jpg": "/minimo/static/media/image_10.853e3e363cb1a5319753.jpg",
     "static/media/image_11.jpg": "/minimo/static/media/image_11.5796e2d664da1cda28a1.jpg",
     "index.html": "/minimo/index.html",
-    "main.3db6b28c.css.map": "/minimo/static/css/main.3db6b28c.css.map",
-    "main.fc46936d.js.map": "/minimo/static/js/main.fc46936d.js.map"
+    "main.b71bedec.css.map": "/minimo/static/css/main.b71bedec.css.map",
+    "main.14375d2d.js.map": "/minimo/static/js/main.14375d2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3db6b28c.css",
-    "static/js/main.fc46936d.js"
+    "static/css/main.b71bedec.css",
+    "static/js/main.14375d2d.js"
   ]
 }
